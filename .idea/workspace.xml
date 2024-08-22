@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="63e75727-078c-46a4-897d-25f0e3681a27" name="Changes" comment="" />
+=======
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32ac1f66-5f2b-4418-be07-2ac069b2637c" name="Changes" comment="" />
+>>>>>>> e1666a01025a38c639f06466534288acd881c542
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +18,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="2l1931W0JzvPuGTePmPZQrzckxX" />
+=======
+  <component name="ProjectId" id="2l0ueEgCDqtvGXoXTSqptShwa3Z" />
+>>>>>>> e1666a01025a38c639f06466534288acd881c542
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -19,13 +31,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
+<<<<<<< HEAD
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "onboarding.tips.debug.path": "C:/Users/Public/java-collections/src/Main.java"
+=======
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+>>>>>>> e1666a01025a38c639f06466534288acd881c542
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="63e75727-078c-46a4-897d-25f0e3681a27" name="Changes" comment="" />
       <created>1724336513464</created>
       <option name="number" value="Default" />
@@ -44,5 +61,25 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+=======
+      <changelist id="32ac1f66-5f2b-4418-be07-2ac069b2637c" name="Changes" comment="" />
+      <created>1724329034141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724329034141</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+>>>>>>> e1666a01025a38c639f06466534288acd881c542
   </component>
 </project>
