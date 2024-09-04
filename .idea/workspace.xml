@@ -1,72 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
-  <component name="ChangeListManager">
-    <list default="true" id="63e75727-078c-46a4-897d-25f0e3681a27" name="Changes" comment="" />
-=======
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32ac1f66-5f2b-4418-be07-2ac069b2637c" name="Changes" comment="" />
->>>>>>> e1666a01025a38c639f06466534288acd881c542
+    <list default="true" id="b2fd0b85-5189-4582-b5b3-adbac9c08a21" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ivoyant/java/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ivoyant/java/FunctionalInterfaceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ivoyant/java/LinkedListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-<<<<<<< HEAD
-  <component name="ProjectId" id="2l1931W0JzvPuGTePmPZQrzckxX" />
-=======
-  <component name="ProjectId" id="2l0ueEgCDqtvGXoXTSqptShwa3Z" />
->>>>>>> e1666a01025a38c639f06466534288acd881c542
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2kiximlK4ZpCveoTFtnO4AqDQQZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-<<<<<<< HEAD
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "onboarding.tips.debug.path": "C:/Users/Public/java-collections/src/Main.java"
-=======
-    "RunOnceActivity.ShowReadmeOnStart": "true"
->>>>>>> e1666a01025a38c639f06466534288acd881c542
-  }
-}]]></component>
+  <component name="PropertiesComponent">{
+        &quot;keyToString&quot;: {
+        &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+        &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+        }
+        }</component>
+  <component name="RunManager" selected="Application.FunctionalInterfaceExample">
+    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivoyant.java.ArrayListExample" />
+      <module name="java-collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ivoyant.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileReadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivoyant.java.FileReadExample" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ivoyant.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalInterfaceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivoyant.java.FunctionalInterfaceExample" />
+      <module name="java-collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ivoyant.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivoyant.java.LinkedListExample" />
+      <module name="java-collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ivoyant.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiThreadExecutorServiceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivoyant.java.MultiThreadExecutorServiceExample" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ivoyant.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FunctionalInterfaceExample" />
+        <item itemvalue="Application.LinkedListExample" />
+        <item itemvalue="Application.ArrayListExample" />
+        <item itemvalue="Application.FileReadExample" />
+        <item itemvalue="Application.MultiThreadExecutorServiceExample" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
-      <changelist id="63e75727-078c-46a4-897d-25f0e3681a27" name="Changes" comment="" />
-      <created>1724336513464</created>
+      <changelist id="b2fd0b85-5189-4582-b5b3-adbac9c08a21" name="Changes" comment="" />
+      <created>1723780330702</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1724336513464</updated>
-    </task>
-    <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-=======
-      <changelist id="32ac1f66-5f2b-4418-be07-2ac069b2637c" name="Changes" comment="" />
-      <created>1724329034141</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1724329034141</updated>
+      <updated>1723780330702</updated>
     </task>
     <servers />
   </component>
@@ -80,6 +134,5 @@
         </entry>
       </map>
     </option>
->>>>>>> e1666a01025a38c639f06466534288acd881c542
   </component>
 </project>
